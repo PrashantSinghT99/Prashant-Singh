@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS, Node.js**
 
-- 🤝 I’m looking for help with **I’m interested in building applications for the future.**
+- 🤝 I’m looking for help with **building applications for the future.**
 
 - 💬 Ask me about **Angular, Typescript, Javascript, Html/Css, UI&API Automation**
 
