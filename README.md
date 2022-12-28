@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 - 🔭 I’m currently working on **Frontend Development**
 
