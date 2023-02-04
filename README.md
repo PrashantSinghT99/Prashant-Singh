@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **building applications for the future.**
 
-- 💬 Ask me about **Angular, Typescript, Javascript, Html/Css, UI&API Automation**
+- 💬 Ask me about **Javascript,React,Angular, Typescript, Javascript, Html/Css, UI&API Automation**
 
 - 📫 How to reach me **prashantsinghtariyal@gmail.com**
 
