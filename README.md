@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **Tailwind CSS, Node.js**
+- 🌱 I’m currently learning **Node.js, Express.js**
 
 - 🤝 I’m looking for help with **building applications for the future.**
 
