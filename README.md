@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prashant-singh-tariyal/" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.png" alt="prashant singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prashant-singh-tariyal/" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.png" alt="prashant singh" height="50" width="80" /></a>
   
 <h3 align="left">Languages and Tools:</h3>
 
