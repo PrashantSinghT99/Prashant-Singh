@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Node.js, Express.js**
+- 🌱 I’m currently learning **React Native**
 
 - 🤝 I’m looking for help with **building applications for the future.**
 
