@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node,Express JS**
 
 - 🤝 I’m looking for help with **building applications for the future.**
 
-- 💬 Ask me about **React, Redux , Javascript , Tailwind CSS, Bootstrap, NodeJs, ExpressJs, Html/CSS, UI & API Automation**
+- 💬 Ask me about **React, React Native, Redux, Javascript , Tailwind CSS, Bootstrap, NodeJs, ExpressJs, Html/CSS, UI & API Automation**
 
 - 📫 How to reach me **prashantsinghtariyal@gmail.com**
 
