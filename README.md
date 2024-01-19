@@ -2,7 +2,7 @@
 <h3 align="center">A passionate engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
-- 🔭 I’m currently working on **Software Development**
+- 🔭 I’m currently working on **Software Development and Automation**
 
 - 🌱 I’m currently learning **Node,Express JS**
 
