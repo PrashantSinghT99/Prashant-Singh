@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **building applications for the future.**
 
-- 💬 Ask me about **React, React Native, Redux, Javascript , Tailwind CSS, Bootstrap, NodeJs, ExpressJs, Html/CSS, UI & API Automation**
+- 💬 Ask me about **React, React Native, Redux, Javascript , Tailwind CSS, Bootstrap, NodeJs, ExpressJs, Html/CSS, UI & API Automation, Appium**
 
 - 📫 How to reach me **prashantsinghtariyal@gmail.com**
 
