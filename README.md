@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Software Development and Automation**
 
-- 🌱 I’m currently learning **Node, Express JS, Cypress, Python, AWS**
+- 🌱 I’m currently learning **Cypress, Python, Node, Express JS, AWS**
 
 - 🤝 I’m looking for help with **building applications for the future.**
 
