@@ -2,7 +2,7 @@
 <h3 align="center">A passionate engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.softest.co/wp-content/uploads/2022/07/giphy-SDET1.gif">
 
-- 🔭 I’m currently working on **Software Development in Test**
+- 🔭 I’m currently working as **Software Development in Test**
 
 - 🌱 I’m currently learning **Cypress, Python, Node, Express JS, AWS**
 
