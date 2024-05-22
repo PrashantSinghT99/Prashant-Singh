@@ -21,7 +21,7 @@
 <div align="left">
    <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" alt="Cypress logo"  />
   <img width="12" />
-    <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852](https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png" height="40" alt="appium logo"  />
+    <img src="https://miro.medium.com/v2/resize:fit:1008/1*3D873F7NqtSUbZso8eCfNQ.png" height="40" alt="appium logo"  />
   <img width="12" />
    <img src="https://banner2.cleanpng.com/20190623/etv/kisspng-python-high-level-programming-language-computer-pr-photos-ottawa-python-authors-group-ottawa-on-5d0f0abf37c231.0386740715612668792284.jpg" height="40" alt="react logo"  />
   <img width="12" />
