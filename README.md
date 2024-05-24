@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
 <h3 align="center">A passionate engineer from India</h3>
+<a href="https://github-portfolio-pst99.vercel.app/" target="blank"><img align="center" src="https://www.mediabistro.com/wp-content/uploads/2016/02/xtips-on-getting-your-copywriter-portfolio-started.jpg.pagespeed.ic.77BXUmgEN5.webp" alt="prashant singh portfolio" height="60" width="80" /></a>
 <img align="right" alt="Coding" width="400" src="https://www.softest.co/wp-content/uploads/2022/07/giphy-SDET1.gif">
 
 - 🔭 I’m currently working as **Software Development in Test**
@@ -15,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prashant-singh-tariyal/" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.png" alt="prashant singh" height="50" width="80" /></a>
-<a href="https://github-portfolio-pst99.vercel.app/" target="blank"><img align="center" src="https://www.mediabistro.com/wp-content/uploads/2016/02/xtips-on-getting-your-copywriter-portfolio-started.jpg.pagespeed.ic.77BXUmgEN5.webp" alt="prashant singh portfolio" height="60" width="80" /></a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
