@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/prashant-singh-tariyal/" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.png" alt="prashant singh" height="50" width="80" /></a>
 
 <h3 align="left">Check My Portfolio:</h3>
-<p align="right">
+<p align="left">
 <a href="https://github-portfolio-pst99.vercel.app/" target="blank"><img align="center" src="https://www.mediabistro.com/wp-content/uploads/2016/02/xtips-on-getting-your-copywriter-portfolio-started.jpg.pagespeed.ic.77BXUmgEN5.webp" alt="prashant singh portfolio" height="60" width="80" /></a>
 
 
