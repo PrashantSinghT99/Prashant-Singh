@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prashant-singh-tariyal/" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.png" alt="prashant singh" height="50" width="80" /></a>
-<a href="https://github-portfolio-pst99.vercel.app/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/114/10/png-transparent-computer-icons-graphic-design-portfolio-portfolio-web-design-text-photography-thumbnail.png" alt="prashant singh portfolio" height="80" width="80" /></a>
+<a href="https://github-portfolio-pst99.vercel.app/" target="blank"><img align="center" src="https://www.mediabistro.com/wp-content/uploads/2016/02/xtips-on-getting-your-copywriter-portfolio-started.jpg.pagespeed.ic.77BXUmgEN5.webp" alt="prashant singh portfolio" height="80" width="80" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
